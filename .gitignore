@@ -1,0 +1,22 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+# Caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+# Archivos de entorno y secretos
+.env
+*.env
+# Resultados generados automáticamente
+outputs/*.json
+!outputs/.gitkeep
+# Sistema operativo y editor
+.DS_Store
+Thumbs.db
+.vscode/
