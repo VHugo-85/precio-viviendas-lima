@@ -1,0 +1,15 @@
+# Responsable global del repositorio
+* @VHugo-85
+
+# Código fuente
+/src/ @VHugo-85
+/scripts/ @VHugo-85
+
+# Tests
+/tests/ @VHugo-85
+
+# Documentación
+/docs/ @VHugo-85
+
+# Workflows yconfiguración de GitHub
+/.github/ @VHugo-85
